@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Test Suite Login dan Register,,,,13-02-2024 23:08:12,13-02-2024 23:09:30,1m - 17.624s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login,,,,13-02-2024 23:08:13,13-02-2024 23:08:56,43.046s,PASSED
+validUsername = username,,,,13-02-2024 23:08:13,13-02-2024 23:08:13,0.004s,PASSED
+username = username,,,,13-02-2024 23:08:13,13-02-2024 23:08:13,0.003s,PASSED
+password = password,,,,13-02-2024 23:08:13,13-02-2024 23:08:13,0.005s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:08:13,13-02-2024 23:08:38,24.910s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 23:08:38,13-02-2024 23:08:40,1.647s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 23:08:40,13-02-2024 23:08:41,1.126s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 23:08:41,13-02-2024 23:08:44,3.198s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 23:08:44,13-02-2024 23:08:46,1.979s,PASSED
+if (username == validUsername),,,,13-02-2024 23:08:46,13-02-2024 23:08:56,9.852s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login,,,,13-02-2024 23:08:56,13-02-2024 23:09:30,34.276s,PASSED
+validUsername = username,,,,13-02-2024 23:08:56,13-02-2024 23:08:56,0.002s,PASSED
+username = username,,,,13-02-2024 23:08:56,13-02-2024 23:08:56,0.001s,PASSED
+password = password,,,,13-02-2024 23:08:56,13-02-2024 23:08:56,0.000s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:08:56,13-02-2024 23:09:12,16.278s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 23:09:12,13-02-2024 23:09:14,2.229s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 23:09:14,13-02-2024 23:09:16,1.243s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 23:09:16,13-02-2024 23:09:19,2.989s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 23:09:19,13-02-2024 23:09:21,2.115s,PASSED
+if (username == validUsername),,,,13-02-2024 23:09:21,13-02-2024 23:09:30,9.383s,PASSED

@@ -1,0 +1,51 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Negative Test Suite,,,,13-02-2024 21:49:44,13-02-2024 21:52:32,2m - 48.253s,PASSED
+,,,,,,,
+Test Cases/2 Negative Test Case/10 Negatif Test Case - Gagal Register,,,,13-02-2024 21:49:44,13-02-2024 21:50:56,1m - 11.416s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 21:49:44,13-02-2024 21:50:10,25.649s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.ImageView""), 0)",,,,13-02-2024 21:50:10,13-02-2024 21:50:12,1.919s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.TextView - LOGIN""), 0)",,,,13-02-2024 21:50:12,13-02-2024 21:50:13,1.224s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.TextView - SIGN UP TODAY""), 0)",,,,13-02-2024 21:50:13,13-02-2024 21:50:15,1.433s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText""), ""dharmayudhaputu"", 0)",,,,13-02-2024 21:50:15,13-02-2024 21:50:18,3.119s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (1)""), ""yudhatesting@gmail.com"", 0)",,,,13-02-2024 21:50:18,13-02-2024 21:50:20,2.107s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (2)""), ""Dharmayudha1"", 0)",,,,13-02-2024 21:50:20,13-02-2024 21:50:22,2.085s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (3)""), ""Dharmayudha1"", 0)",,,,13-02-2024 21:50:22,13-02-2024 21:50:24,1.987s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:24,13-02-2024 21:50:25,0.687s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (4)""), ""Dharma"", 0)",,,,13-02-2024 21:50:25,13-02-2024 21:50:27,2.470s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (5)""), ""Yudha"", 0)",,,,13-02-2024 21:50:27,13-02-2024 21:50:29,1.994s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:29,13-02-2024 21:50:30,0.606s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (6)""), ""081353081122"", 0)",,,,13-02-2024 21:50:30,13-02-2024 21:50:32,2.472s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:32,13-02-2024 21:50:33,0.619s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (7)""), ""Jakarta"", 0)",,,,13-02-2024 21:50:33,13-02-2024 21:50:35,2.494s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:35,13-02-2024 21:50:36,0.618s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (8)""), ""Jalan Medan Merdeka No 5 Jakarta"", 0)",,,,13-02-2024 21:50:36,13-02-2024 21:50:38,2.470s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:38,13-02-2024 21:50:39,0.609s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (9)""), ""Jakarta"", 0)",,,,13-02-2024 21:50:39,13-02-2024 21:50:48,9.217s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (10)""), ""80582"", 0)",,,,13-02-2024 21:50:48,13-02-2024 21:50:50,1.971s,PASSED
+hideKeyboard(),,,,13-02-2024 21:50:50,13-02-2024 21:50:51,0.624s,PASSED
+"scrollToText(""register"")",,,,13-02-2024 21:50:51,13-02-2024 21:50:54,3.003s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.Button - REGISTER""), 0)",,,,13-02-2024 21:50:54,13-02-2024 21:50:54,0.207s,PASSED
+closeApplication(),,,,13-02-2024 21:50:54,13-02-2024 21:50:56,1.548s,PASSED
+,,,,,,,
+Test Cases/2 Negative Test Case/9 Negatif Test Case - Gagal Login,,,,13-02-2024 21:50:56,13-02-2024 21:51:36,40.118s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 21:50:56,13-02-2024 21:51:18,22.046s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 21:51:18,13-02-2024 21:51:20,2.243s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 21:51:20,13-02-2024 21:51:21,1.122s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,13-02-2024 21:51:21,13-02-2024 21:51:24,2.845s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""12345678"", 0)",,,,13-02-2024 21:51:24,13-02-2024 21:51:26,1.973s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 21:51:26,13-02-2024 21:51:27,0.664s,PASSED
+hideKeyboard(),,,,13-02-2024 21:51:27,13-02-2024 21:51:29,2.093s,PASSED
+delay(5),,,,13-02-2024 21:51:29,13-02-2024 21:51:34,5.054s,PASSED
+closeApplication(),,,,13-02-2024 21:51:34,13-02-2024 21:51:36,1.938s,PASSED
+,,,,,,,
+Test Cases/2 Negative Test Case/11 Negatif Test Case - Invalid Search,,,,13-02-2024 21:52:03,13-02-2024 21:52:32,28.614s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 21:52:03,13-02-2024 21:52:11,8.002s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 21:52:11,13-02-2024 21:52:14,2.197s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 21:52:14,13-02-2024 21:52:15,1.229s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,13-02-2024 21:52:15,13-02-2024 21:52:18,2.850s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,13-02-2024 21:52:18,13-02-2024 21:52:20,1.973s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 21:52:20,13-02-2024 21:52:20,0.680s,PASSED
+hideKeyboard(),,,,13-02-2024 21:52:20,13-02-2024 21:52:23,2.406s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), ""One Piece"", 0)",,,,13-02-2024 21:52:23,13-02-2024 21:52:26,2.818s,PASSED
+delay(5),,,,13-02-2024 21:52:26,13-02-2024 21:52:31,5.020s,PASSED
+closeApplication(),,,,13-02-2024 21:52:31,13-02-2024 21:52:32,1.417s,PASSED

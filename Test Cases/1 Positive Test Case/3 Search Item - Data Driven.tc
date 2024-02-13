@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 Search Item - Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>857c2fe1-4d32-4e2c-ad4f-fc46147d535c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97c753ef-496b-4ff2-9ae3-f4749ec38824</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('2 Data Search')</defaultValue>
+      <description></description>
+      <id>97c753ef-496b-4ff2-9ae3-f4749ec38824</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>
