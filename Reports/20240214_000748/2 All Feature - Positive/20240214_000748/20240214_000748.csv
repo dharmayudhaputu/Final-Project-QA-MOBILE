@@ -1,0 +1,107 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 All Feature - Positive,,,,14-02-2024 00:07:54,14-02-2024 00:14:07,6m - 12.609s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/3 Search Item - Data Driven,,,,14-02-2024 00:07:55,14-02-2024 00:08:53,58.516s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:07:55,14-02-2024 00:08:27,31.401s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 00:08:27,14-02-2024 00:08:28,1.371s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:08:28,14-02-2024 00:08:29,1.143s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,14-02-2024 00:08:29,14-02-2024 00:08:32,3.080s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,14-02-2024 00:08:32,14-02-2024 00:08:34,2.004s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 00:08:34,14-02-2024 00:08:35,0.683s,PASSED
+hideKeyboard(),,,,14-02-2024 00:08:35,14-02-2024 00:08:37,2.036s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), search, 0)",,,,14-02-2024 00:08:37,14-02-2024 00:08:40,3.054s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 00:08:40,14-02-2024 00:08:41,0.748s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:08:41,14-02-2024 00:08:43,2.629s,PASSED
+delay(5),,,,14-02-2024 00:08:43,14-02-2024 00:08:48,5.050s,PASSED
+closeApplication(),,,,14-02-2024 00:08:48,14-02-2024 00:08:51,2.590s,PASSED
+Video,,,,14-02-2024 00:08:53,14-02-2024 00:08:53,0.001s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/3 Search Item - Data Driven,,,,14-02-2024 00:08:53,14-02-2024 00:09:38,44.505s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:08:53,14-02-2024 00:09:10,17.316s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 00:09:10,14-02-2024 00:09:13,2.159s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:09:13,14-02-2024 00:09:14,1.168s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,14-02-2024 00:09:14,14-02-2024 00:09:17,2.983s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,14-02-2024 00:09:17,14-02-2024 00:09:19,1.946s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 00:09:19,14-02-2024 00:09:19,0.674s,PASSED
+hideKeyboard(),,,,14-02-2024 00:09:19,14-02-2024 00:09:22,2.581s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), search, 0)",,,,14-02-2024 00:09:22,14-02-2024 00:09:25,2.876s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 00:09:25,14-02-2024 00:09:26,0.783s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:09:26,14-02-2024 00:09:29,2.946s,PASSED
+delay(5),,,,14-02-2024 00:09:29,14-02-2024 00:09:34,5.006s,PASSED
+closeApplication(),,,,14-02-2024 00:09:34,14-02-2024 00:09:35,1.889s,PASSED
+Video,,,,14-02-2024 00:09:38,14-02-2024 00:09:38,0.001s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/4 Add to Chart,,,,14-02-2024 00:10:53,14-02-2024 00:11:34,40.503s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:10:53,14-02-2024 00:11:03,9.627s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 00:11:03,14-02-2024 00:11:05,2.111s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:11:05,14-02-2024 00:11:06,1.202s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,14-02-2024 00:11:06,14-02-2024 00:11:09,2.965s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,14-02-2024 00:11:09,14-02-2024 00:11:11,1.995s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 00:11:11,14-02-2024 00:11:12,0.717s,PASSED
+hideKeyboard(),,,,14-02-2024 00:11:12,14-02-2024 00:11:14,2.523s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), ""speaker"", 0)",,,,14-02-2024 00:11:14,14-02-2024 00:11:17,2.895s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 00:11:17,14-02-2024 00:11:18,0.713s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:11:18,14-02-2024 00:11:20,2.558s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - ADD TO CART""), 0)",,,,14-02-2024 00:11:20,14-02-2024 00:11:22,1.386s,PASSED
+hideKeyboard(),,,,14-02-2024 00:11:22,14-02-2024 00:11:22,0.408s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (3)""), 0)",,,,14-02-2024 00:11:22,14-02-2024 00:11:25,2.469s,PASSED
+delay(5),,,,14-02-2024 00:11:25,14-02-2024 00:11:30,5.019s,PASSED
+closeApplication(),,,,14-02-2024 00:11:30,14-02-2024 00:11:31,1.839s,PASSED
+Video,,,,14-02-2024 00:11:34,14-02-2024 00:11:34,0.001s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/5 Checkout,,,,14-02-2024 00:11:34,14-02-2024 00:12:32,58.609s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:11:34,14-02-2024 00:11:56,22.511s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 00:11:56,14-02-2024 00:11:59,2.352s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:11:59,14-02-2024 00:12:00,1.308s,PASSED
+"setText(findTestObject(""Object Repository/4 New Checkout/android.widget.EditText""), ""yudhatesting2"", 0)",,,,14-02-2024 00:12:00,14-02-2024 00:12:03,3.002s,PASSED
+"setText(findTestObject(""Object Repository/4 New Checkout/android.widget.EditText (1)""), ""Dharmayudha2"", 0)",,,,14-02-2024 00:12:03,14-02-2024 00:12:05,2.056s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 00:12:05,14-02-2024 00:12:06,0.681s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:06,14-02-2024 00:12:07,1.862s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 00:12:07,14-02-2024 00:12:08,0.597s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:08,14-02-2024 00:12:08,0.363s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.RelativeLayout""), 0)",,,,14-02-2024 00:12:08,14-02-2024 00:12:15,6.417s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - ADD TO CART""), 0)",,,,14-02-2024 00:12:15,14-02-2024 00:12:15,0.264s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:15,14-02-2024 00:12:16,0.432s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:12:16,14-02-2024 00:12:17,1.996s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)""), 0)",,,,14-02-2024 00:12:17,14-02-2024 00:12:19,1.327s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:19,14-02-2024 00:12:19,0.385s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - PAY NOW""), 0)",,,,14-02-2024 00:12:19,14-02-2024 00:12:22,3.091s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:22,14-02-2024 00:12:23,0.374s,PASSED
+delay(5),,,,14-02-2024 00:12:23,14-02-2024 00:12:28,5.006s,PASSED
+closeApplication(),,,,14-02-2024 00:12:28,14-02-2024 00:12:30,2.396s,PASSED
+Video,,,,14-02-2024 00:12:32,14-02-2024 00:12:32,0.001s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/6 Filter,,,,14-02-2024 00:12:32,14-02-2024 00:13:07,35.276s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:12:32,14-02-2024 00:12:50,17.790s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:50,14-02-2024 00:12:50,0.434s,PASSED
+"tap(findTestObject(""Object Repository/3 Filter/android.widget.ImageView""), 0)",,,,14-02-2024 00:12:50,14-02-2024 00:12:52,1.724s,PASSED
+hideKeyboard(),,,,14-02-2024 00:12:52,14-02-2024 00:12:53,0.365s,PASSED
+"tap(findTestObject(""Object Repository/3 Filter/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:12:53,14-02-2024 00:12:55,2.914s,PASSED
+"tap(findTestObject(""Object Repository/3 Filter/android.widget.TextView - BY OPERATING SYSTEM""), 0)",,,,14-02-2024 00:12:55,14-02-2024 00:12:57,1.616s,PASSED
+"tap(findTestObject(""Object Repository/3 Filter/android.widget.TextView - Windows 10""), 0)",,,,14-02-2024 00:12:57,14-02-2024 00:12:58,1.030s,PASSED
+"tap(findTestObject(""Object Repository/3 Filter/android.widget.TextView - APPLY""), 0)",,,,14-02-2024 00:12:58,14-02-2024 00:12:58,0.347s,PASSED
+delay(5),,,,14-02-2024 00:12:58,14-02-2024 00:13:03,5.013s,PASSED
+closeApplication(),,,,14-02-2024 00:13:03,14-02-2024 00:13:05,1.844s,PASSED
+Video,,,,14-02-2024 00:13:07,14-02-2024 00:13:07,0.001s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/7 Edit Data Checkout,,,,14-02-2024 00:13:07,14-02-2024 00:14:07,59.514s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:13:07,14-02-2024 00:13:31,23.974s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 00:13:31,14-02-2024 00:13:34,2.188s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.LinearLayout""), 0)",,,,14-02-2024 00:13:34,14-02-2024 00:13:35,1.365s,PASSED
+"setText(findTestObject(""Object Repository/4 New Checkout/android.widget.EditText""), ""yudhatesting2"", 0)",,,,14-02-2024 00:13:35,14-02-2024 00:13:38,3.096s,PASSED
+"setText(findTestObject(""Object Repository/4 New Checkout/android.widget.EditText (1)""), ""Dharmayudha2"", 0)",,,,14-02-2024 00:13:38,14-02-2024 00:13:40,2.016s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 00:13:40,14-02-2024 00:13:41,0.693s,PASSED
+hideKeyboard(),,,,14-02-2024 00:13:41,14-02-2024 00:13:43,1.949s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 00:13:43,14-02-2024 00:13:43,0.635s,PASSED
+hideKeyboard(),,,,14-02-2024 00:13:43,14-02-2024 00:13:44,0.369s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.RelativeLayout""), 0)",,,,14-02-2024 00:13:44,14-02-2024 00:13:50,6.135s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - ADD TO CART""), 0)",,,,14-02-2024 00:13:50,14-02-2024 00:13:50,0.261s,PASSED
+hideKeyboard(),,,,14-02-2024 00:13:50,14-02-2024 00:13:51,0.401s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:13:51,14-02-2024 00:13:52,1.759s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)""), 0)",,,,14-02-2024 00:13:52,14-02-2024 00:13:54,1.322s,PASSED
+hideKeyboard(),,,,14-02-2024 00:13:54,14-02-2024 00:13:54,0.380s,PASSED
+"tap(findTestObject(""Object Repository/4 New Checkout/android.widget.Button - PAY NOW""), 0)",,,,14-02-2024 00:13:54,14-02-2024 00:13:57,3.110s,PASSED
+hideKeyboard(),,,,14-02-2024 00:13:57,14-02-2024 00:13:58,0.365s,PASSED
+delay(5),,,,14-02-2024 00:13:58,14-02-2024 00:14:03,5.018s,PASSED
+closeApplication(),,,,14-02-2024 00:14:03,14-02-2024 00:14:05,2.294s,PASSED
+Video,,,,14-02-2024 00:14:07,14-02-2024 00:14:07,0.001s,PASSED

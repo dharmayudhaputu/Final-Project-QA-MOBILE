@@ -1,0 +1,96 @@
+1
+00:00:00,228 --> 00:00:27,818
+1. startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true)
+
+2
+00:00:27,831 --> 00:00:29,779
+5. tap(findTestObject("Object Repository/1 Register/android.widget.ImageView"), 0)
+
+3
+00:00:29,780 --> 00:00:31,143
+9. tap(findTestObject("Object Repository/1 Register/android.widget.TextView - LOGIN"), 0)
+
+4
+00:00:31,144 --> 00:00:32,609
+13. tap(findTestObject("Object Repository/1 Register/android.widget.TextView - SIGN UP TODAY"), 0)
+
+5
+00:00:32,610 --> 00:00:36,027
+17. setText(findTestObject("Object Repository/1 Register/android.widget.EditText"), "dharmayudhaputu", 0)
+
+6
+00:00:36,028 --> 00:00:38,177
+21. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (1)"), "yudhatesting@gmail.com", 0)
+
+7
+00:00:38,178 --> 00:00:40,336
+25. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (2)"), "Dharmayudha1", 0)
+
+8
+00:00:40,337 --> 00:00:42,329
+29. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (3)"), "Dharmayudha1", 0)
+
+9
+00:00:42,330 --> 00:00:43,107
+33. hideKeyboard()
+
+10
+00:00:43,108 --> 00:00:45,565
+37. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (4)"), "Dharma", 0)
+
+11
+00:00:45,566 --> 00:00:47,592
+41. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (5)"), "Yudha", 0)
+
+12
+00:00:47,593 --> 00:00:48,281
+45. hideKeyboard()
+
+13
+00:00:48,282 --> 00:00:50,691
+49. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (6)"), "081353081122", 0)
+
+14
+00:00:50,692 --> 00:00:51,332
+53. hideKeyboard()
+
+15
+00:00:51,333 --> 00:00:54,219
+57. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (7)"), "Jakarta", 0)
+
+16
+00:00:54,221 --> 00:00:54,898
+61. hideKeyboard()
+
+17
+00:00:54,900 --> 00:00:57,397
+65. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (8)"), "Jalan Medan Merdeka No 5 Jakarta", 0)
+
+18
+00:00:57,397 --> 00:00:58,068
+69. hideKeyboard()
+
+19
+00:00:58,069 --> 00:01:04,522
+73. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (9)"), "Jakarta", 0)
+
+20
+00:01:04,523 --> 00:01:06,474
+77. setText(findTestObject("Object Repository/1 Register/android.widget.EditText (10)"), "80582", 0)
+
+21
+00:01:06,475 --> 00:01:07,110
+81. hideKeyboard()
+
+22
+00:01:07,111 --> 00:01:07,977
+85. scrollToText("register")
+
+23
+00:01:07,978 --> 00:01:08,204
+89. tap(findTestObject("Object Repository/1 Register/android.widget.Button - REGISTER"), 0)
+
+24
+00:01:08,205 --> 00:01:10,315
+93. closeApplication()
+

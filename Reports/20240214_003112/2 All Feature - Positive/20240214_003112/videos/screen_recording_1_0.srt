@@ -1,0 +1,48 @@
+1
+00:00:00,269 --> 00:00:26,699
+1. startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true)
+
+2
+00:00:26,712 --> 00:00:28,268
+5. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0)
+
+3
+00:00:28,270 --> 00:00:29,431
+9. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0)
+
+4
+00:00:29,432 --> 00:00:32,794
+13. setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), "yudhatesting", 0)
+
+5
+00:00:32,796 --> 00:00:34,789
+17. setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), "Dharmayudha1", 0)
+
+6
+00:00:34,790 --> 00:00:35,465
+21. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN"), 0)
+
+7
+00:00:35,466 --> 00:00:38,442
+25. hideKeyboard()
+
+8
+00:00:38,442 --> 00:00:41,792
+29. setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText - Search"), search, 0)
+
+9
+00:00:41,794 --> 00:00:42,544
+33. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (1)"), 0)
+
+10
+00:00:42,545 --> 00:00:46,070
+37. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (2)"), 0)
+
+11
+00:00:46,070 --> 00:00:51,104
+41. delay(5)
+
+12
+00:00:51,105 --> 00:00:53,146
+45. closeApplication()
+

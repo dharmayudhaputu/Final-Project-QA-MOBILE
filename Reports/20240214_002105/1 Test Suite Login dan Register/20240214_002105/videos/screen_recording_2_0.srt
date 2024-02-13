@@ -1,0 +1,52 @@
+1
+00:00:00,090 --> 00:00:00,092
+1. validUsername = username
+
+2
+00:00:00,093 --> 00:00:00,096
+5. username = username
+
+3
+00:00:00,098 --> 00:00:00,104
+9. password = password
+
+4
+00:00:00,105 --> 00:00:24,190
+13. startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true)
+
+5
+00:00:24,191 --> 00:00:26,248
+17. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0)
+
+6
+00:00:26,249 --> 00:00:27,491
+21. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0)
+
+7
+00:00:27,492 --> 00:00:30,489
+25. setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), username, 0)
+
+8
+00:00:30,490 --> 00:00:32,522
+29. setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), password, 0)
+
+9
+00:00:32,523 --> 00:00:32,527
+33. if (username == validUsername)
+
+10
+00:00:32,528 --> 00:00:33,194
+1. tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN"), 0)
+
+11
+00:00:33,195 --> 00:00:35,760
+5. hideKeyboard()
+
+12
+00:00:35,761 --> 00:00:40,825
+9. delay(5)
+
+13
+00:00:40,826 --> 00:00:42,391
+13. closeApplication()
+

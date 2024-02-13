@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-13T16:01:26.284625600Z</date>
+  <millis>1707840086284</millis>
+  <nanos>625600</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/2 All Feature - Positive</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">2 All Feature - Positive</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/2 All Feature - Positive</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.309926Z</date>
+  <millis>1707840086309</millis>
+  <nanos>926000</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = ACER - LAPTOP-DI70DTOM</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">ACER - LAPTOP-DI70DTOM</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.309926Z</date>
+  <millis>1707840086309</millis>
+  <nanos>926000</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 11 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 11 64bit</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.310922600Z</date>
+  <millis>1707840086310</millis>
+  <nanos>922600</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.0.111</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">192.168.0.111</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.310922600Z</date>
+  <millis>1707840086310</millis>
+  <nanos>922600</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.3.0.212</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.3.0.212</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.520704800Z</date>
+  <millis>1707840086520</millis>
+  <nanos>704800</nanos>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/1 Positive Test Case/3 Search Item - Data Driven</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/1 Positive Test Case/3 Search Item - Data Driven</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/1 Positive Test Case/3 Search Item - Data Driven</property>
+  <property name="source">C:\Users\ACER\git\Final-Project-QA-MOBILE\Test Cases\1 Positive Test Case\3 Search Item - Data Driven.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2024-02-13T16:01:26.587206800Z</date>
+  <millis>1707840086587</millis>
+  <nanos>206800</nanos>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>search = speaker</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:27.004032500Z</date>
+  <millis>1707840087004</millis>
+  <nanos>32500</nanos>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startApplication(&amp;quot;E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>

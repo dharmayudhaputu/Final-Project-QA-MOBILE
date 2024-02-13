@@ -2953,3 +2953,13 @@
 [38;5;0m[HTTP][0m [90m{"using":"xpath","value":"//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.RelativeLayout[1]/android.widget.ImageView[1]"}[39m
 [38;5;0m[HTTP][0m [37m<-- POST /wd/hub/session/0afafd46-d5ce-4392-863d-4f0b0946bb05/elements [39m[32m-[39m [90m- ms - -[39m
 [38;5;0m[HTTP][0m [90m[39m
+[38;5;48m[AndroidUiautomator2Driver@07ea (e6662a12)][0m Shutting down because we waited 1800 seconds for a command
+[38;5;16m[AppiumDriver@c6cb][0m Ending session, cause was 'New Command Timeout of 1800 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability'
+[38;5;16m[AppiumDriver@c6cb][0m Removing session 'e6662a12-cd86-4c77-b071-39c21c46cfaa' from our master session list
+[38;5;48m[AndroidUiautomator2Driver@07ea (e6662a12)][0m Did not get confirmation UiAutomator2 deleteSession worked; Error was: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'DELETE /' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+[38;5;64m[ADB][0m com.Advantage.aShopping was successfully uninstalled
+[38;5;48m[AndroidUiautomator2Driver@fa8c (0afafd46)][0m Shutting down because we waited 1800 seconds for a command
+[38;5;16m[AppiumDriver@c6cb][0m Ending session, cause was 'New Command Timeout of 1800 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability'
+[38;5;16m[AppiumDriver@c6cb][0m Removing session '0afafd46-d5ce-4392-863d-4f0b0946bb05' from our master session list
+[38;5;48m[AndroidUiautomator2Driver@fa8c (0afafd46)][0m Did not get confirmation UiAutomator2 deleteSession worked; Error was: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'DELETE /' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+[38;5;64m[ADB][0m com.Advantage.aShopping was not uninstalled, because it was not present on the device
