@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1 Test Suite Login dan Register" time="61.538" tests="2" failures="0" errors="0">
+   <testsuite name="1 Test Suite Login dan Register" tests="2" failures="0" errors="0" time="61.538" skipped="0" timestamp="13-02-2024T23:05:00" hostname="ACER - LAPTOP-DI70DTOM" id="Test Suites/1 Test Suite Login dan Register">
+      <properties>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240213_230453\\1 Test Suite Login dan Register\\20240213_230453"/>
+         <property name="logFiles" value="C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240213_230453\\1 Test Suite Login dan Register\\20240213_230453\\appium.log, C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240213_230453\\1 Test Suite Login dan Register\\20240213_230453\\appium_error.log, C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240213_230453\\1 Test Suite Login dan Register\\20240213_230453\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ACER - LAPTOP-DI70DTOM"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="2.5.0"/>
+         <property name="deviceModel" value="Android SDK built for x86"/>
+         <property name="hostAddress" value="192.168.0.111"/>
+         <property name="deviceManufacturer" value="Google"/>
+         <property name="deviceId" value="emulator-5554"/>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="deviceOSVersion" value="8.1.0"/>
+      </properties>
+      <testcase name="Test Cases/1 Positive Test Case/2 Login" time="39.902" classname="Test Cases/1 Positive Test Case/2 Login" status="PASSED">
+         <system-out><![CDATA[13-02-2024T23:05:00 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/2 Login: Test Cases/1 Positive Test Case/2 Login
+
+13-02-2024T23:05:01 - [TEST_STEP][PASSED] - validUsername = "username": null
+
+13-02-2024T23:05:01 - [TEST_STEP][PASSED] - username = username: null
+
+13-02-2024T23:05:01 - [TEST_STEP][PASSED] - password = password: null
+
+13-02-2024T23:05:01 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+13-02-2024T23:05:02 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+13-02-2024T23:05:13 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+13-02-2024T23:05:13 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+13-02-2024T23:05:13 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240213_230453\1 Test Suite Login dan Register\20240213_230453\appium.log
+
+13-02-2024T23:05:13 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240213_230453\1 Test Suite Login dan Register\20240213_230453\appium_error.log
+
+13-02-2024T23:05:16 - [MESSAGE][INFO] - Appium server started on port 1,315
+
+13-02-2024T23:05:32 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+13-02-2024T23:05:32 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+13-02-2024T23:05:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+13-02-2024T23:05:33 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+13-02-2024T23:05:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:34 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+13-02-2024T23:05:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), username, 0): Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+13-02-2024T23:05:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:38 - [MESSAGE][PASSED] - Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+13-02-2024T23:05:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), password, 0): Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+13-02-2024T23:05:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:40 - [MESSAGE][PASSED] - Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - if (username == validUsername): null
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - else: null
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - println("Username tidak valid. Tidak dapat melakukan login."): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/2 Login" time="21.267" classname="Test Cases/1 Positive Test Case/2 Login" status="PASSED">
+         <system-out><![CDATA[13-02-2024T23:05:40 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/2 Login: Test Cases/1 Positive Test Case/2 Login
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - validUsername = "username": null
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - username = username: null
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - password = password: null
+
+13-02-2024T23:05:40 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+13-02-2024T23:05:53 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+13-02-2024T23:05:53 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+13-02-2024T23:05:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+13-02-2024T23:05:55 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+13-02-2024T23:05:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:05:57 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+13-02-2024T23:05:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), username, 0): Text 'yudhatesting2' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+13-02-2024T23:05:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:06:00 - [MESSAGE][PASSED] - Text 'yudhatesting2' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+13-02-2024T23:06:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), password, 0): Text 'Dharmayudha2' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+13-02-2024T23:06:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-02-2024T23:06:02 - [MESSAGE][PASSED] - Text 'Dharmayudha2' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+13-02-2024T23:06:02 - [TEST_STEP][PASSED] - if (username == validUsername): null
+
+13-02-2024T23:06:02 - [TEST_STEP][PASSED] - else: null
+
+13-02-2024T23:06:02 - [TEST_STEP][PASSED] - println("Username tidak valid. Tidak dapat melakukan login."): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-02-2024T23:05:00 - [TEST_SUITE][PASSED] - 1 Test Suite Login dan Register: Test Cases/1 Positive Test Case/2 Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
