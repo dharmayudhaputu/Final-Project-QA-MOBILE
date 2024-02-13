@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Test Suite Login dan Register,,,,13-02-2024 22:52:17,13-02-2024 22:53:45,1m - 28.096s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login,,,,13-02-2024 22:52:17,13-02-2024 22:53:09,51.486s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 22:52:18,13-02-2024 22:52:51,33.179s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 22:52:51,13-02-2024 22:52:52,1.606s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 22:52:52,13-02-2024 22:52:53,1.131s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 22:52:53,13-02-2024 22:52:57,3.292s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 22:52:57,13-02-2024 22:52:59,1.947s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 22:52:59,13-02-2024 22:52:59,0.687s,PASSED
+hideKeyboard(),,,,13-02-2024 22:52:59,13-02-2024 22:53:01,1.942s,PASSED
+delay(5),,,,13-02-2024 22:53:01,13-02-2024 22:53:06,5.055s,PASSED
+closeApplication(),,,,13-02-2024 22:53:06,13-02-2024 22:53:09,2.337s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login,,,,13-02-2024 22:53:09,13-02-2024 22:53:45,36.304s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 22:53:09,13-02-2024 22:53:27,17.840s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 22:53:27,13-02-2024 22:53:29,2.286s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 22:53:29,13-02-2024 22:53:30,1.410s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 22:53:30,13-02-2024 22:53:34,3.235s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 22:53:34,13-02-2024 22:53:36,1.996s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 22:53:36,13-02-2024 22:53:36,0.688s,PASSED
+hideKeyboard(),,,,13-02-2024 22:53:36,13-02-2024 22:53:38,2.044s,PASSED
+delay(5),,,,13-02-2024 22:53:38,13-02-2024 22:53:43,5.009s,PASSED
+closeApplication(),,,,13-02-2024 22:53:43,13-02-2024 22:53:45,1.770s,PASSED

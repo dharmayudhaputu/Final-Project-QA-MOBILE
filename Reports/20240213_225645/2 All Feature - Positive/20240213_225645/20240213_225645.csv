@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 All Feature - Positive,,,,13-02-2024 22:56:53,13-02-2024 22:58:30,1m - 37.409s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/3 Search Item,,,,13-02-2024 22:56:53,13-02-2024 22:57:49,56.397s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 22:56:53,13-02-2024 22:57:24,30.878s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 22:57:24,13-02-2024 22:57:26,1.904s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 22:57:26,13-02-2024 22:57:27,1.170s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,13-02-2024 22:57:27,13-02-2024 22:57:31,3.321s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,13-02-2024 22:57:31,13-02-2024 22:57:33,2.052s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 22:57:33,13-02-2024 22:57:33,0.652s,PASSED
+hideKeyboard(),,,,13-02-2024 22:57:33,13-02-2024 22:57:35,1.944s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), search, 0)",,,,13-02-2024 22:57:35,13-02-2024 22:57:38,2.646s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (1)""), 0)",,,,13-02-2024 22:57:38,13-02-2024 22:57:39,1.385s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (2)""), 0)",,,,13-02-2024 22:57:39,13-02-2024 22:57:42,2.757s,PASSED
+delay(5),,,,13-02-2024 22:57:42,13-02-2024 22:57:47,5.030s,PASSED
+closeApplication(),,,,13-02-2024 22:57:47,13-02-2024 22:57:49,2.330s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/3 Search Item,,,,13-02-2024 22:57:49,13-02-2024 22:58:30,40.727s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 22:57:49,13-02-2024 22:58:06,16.936s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 22:58:06,13-02-2024 22:58:09,2.375s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 22:58:09,13-02-2024 22:58:10,1.138s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), ""yudhatesting"", 0)",,,,13-02-2024 22:58:10,13-02-2024 22:58:13,2.850s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), ""Dharmayudha1"", 0)",,,,13-02-2024 22:58:13,13-02-2024 22:58:15,2.012s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 22:58:15,13-02-2024 22:58:15,0.676s,PASSED
+hideKeyboard(),,,,13-02-2024 22:58:15,13-02-2024 22:58:17,1.707s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText - Search""), search, 0)",,,,13-02-2024 22:58:17,13-02-2024 22:58:20,2.713s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (1)""), 0)",,,,13-02-2024 22:58:20,13-02-2024 22:58:21,0.718s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView (2)""), 0)",,,,13-02-2024 22:58:21,13-02-2024 22:58:23,2.354s,PASSED
+delay(5),,,,13-02-2024 22:58:23,13-02-2024 22:58:28,5.015s,PASSED
+closeApplication(),,,,13-02-2024 22:58:28,13-02-2024 22:58:30,2.195s,PASSED
