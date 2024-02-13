@@ -1,0 +1,76 @@
+1
+00:00:00,077 --> 00:00:19,609
+1. startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true)
+
+2
+00:00:19,610 --> 00:00:21,700
+5. tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView"), 0)
+
+3
+00:00:21,701 --> 00:00:22,987
+9. tap(findTestObject("Object Repository/4 New Checkout/android.widget.LinearLayout"), 0)
+
+4
+00:00:22,988 --> 00:00:25,967
+13. setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText"), "yudhatesting2", 0)
+
+5
+00:00:25,969 --> 00:00:27,949
+17. setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText (1)"), "Dharmayudha2", 0)
+
+6
+00:00:27,949 --> 00:00:28,660
+21. tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - LOGIN"), 0)
+
+7
+00:00:28,661 --> 00:00:30,244
+25. hideKeyboard()
+
+8
+00:00:30,245 --> 00:00:31,044
+29. tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (1)"), 0)
+
+9
+00:00:31,045 --> 00:00:31,411
+33. hideKeyboard()
+
+10
+00:00:31,412 --> 00:00:35,178
+37. tap(findTestObject("Object Repository/4 New Checkout/android.widget.RelativeLayout"), 0)
+
+11
+00:00:35,180 --> 00:00:36,415
+41. tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - ADD TO CART"), 0)
+
+12
+00:00:36,416 --> 00:00:36,782
+45. hideKeyboard()
+
+13
+00:00:36,783 --> 00:00:38,580
+49. tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (2)"), 0)
+
+14
+00:00:38,582 --> 00:00:40,893
+53. tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)"), 0)
+
+15
+00:00:40,894 --> 00:00:41,274
+57. hideKeyboard()
+
+16
+00:00:41,275 --> 00:00:45,469
+61. tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - PAY NOW"), 0)
+
+17
+00:00:45,470 --> 00:00:45,833
+65. hideKeyboard()
+
+18
+00:00:45,833 --> 00:00:50,839
+69. delay(5)
+
+19
+00:00:50,840 --> 00:00:52,681
+73. closeApplication()
+

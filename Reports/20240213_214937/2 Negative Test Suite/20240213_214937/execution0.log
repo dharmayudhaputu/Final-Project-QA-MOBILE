@@ -6680,3 +6680,315 @@ com.kms.katalon.composer.mobile.recorder.components.MobileRecorderDialog$3.run(M
 org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
 </property>
 </record>
+<record>
+  <date>2024-02-13T16:01:17.461995600Z</date>
+  <millis>1707840077461</millis>
+  <nanos>995600</nanos>
+  <sequence>8378</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2516</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:17.478091400Z</date>
+  <millis>1707840077478</millis>
+  <nanos>91400</nanos>
+  <sequence>8379</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2516</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:17.478091400Z</date>
+  <millis>1707840077478</millis>
+  <nanos>91400</nanos>
+  <sequence>8380</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2516</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:31.803366Z</date>
+  <millis>1707840091803</millis>
+  <nanos>366000</nanos>
+  <sequence>8386</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:31.806352600Z</date>
+  <millis>1707840091806</millis>
+  <nanos>352600</nanos>
+  <sequence>8387</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:01:31.807337700Z</date>
+  <millis>1707840091807</millis>
+  <nanos>337700</nanos>
+  <sequence>8388</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:03:46.982012200Z</date>
+  <millis>1707840226982</millis>
+  <nanos>12200</nanos>
+  <sequence>8504</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2498</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:03:47.012379Z</date>
+  <millis>1707840227012</millis>
+  <nanos>379000</nanos>
+  <sequence>8505</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2498</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:03:47.013384300Z</date>
+  <millis>1707840227013</millis>
+  <nanos>384300</nanos>
+  <sequence>8506</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2498</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:07:45.308335200Z</date>
+  <millis>1707840465308</millis>
+  <nanos>335200</nanos>
+  <sequence>8785</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2562</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:07:45.321881100Z</date>
+  <millis>1707840465321</millis>
+  <nanos>881100</nanos>
+  <sequence>8786</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2562</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:07:45.324896700Z</date>
+  <millis>1707840465324</millis>
+  <nanos>896700</nanos>
+  <sequence>8787</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2562</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:17:01.498400600Z</date>
+  <millis>1707841021498</millis>
+  <nanos>400600</nanos>
+  <sequence>10816</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:17:01.554588700Z</date>
+  <millis>1707841021554</millis>
+  <nanos>588700</nanos>
+  <sequence>10817</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:17:01.554588700Z</date>
+  <millis>1707841021554</millis>
+  <nanos>588700</nanos>
+  <sequence>10818</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2323</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:21:01.806176600Z</date>
+  <millis>1707841261806</millis>
+  <nanos>176600</nanos>
+  <sequence>11038</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2710</thread>
+  <message>Finding test data with id &amp;apos;Data Files/1 Data Login&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:21:01.848292500Z</date>
+  <millis>1707841261848</millis>
+  <nanos>292500</nanos>
+  <sequence>11039</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2710</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:21:01.850237900Z</date>
+  <millis>1707841261850</millis>
+  <nanos>237900</nanos>
+  <sequence>11040</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2710</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;login&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:31:07.915312100Z</date>
+  <millis>1707841867915</millis>
+  <nanos>312100</nanos>
+  <sequence>13002</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2711</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:31:07.937447600Z</date>
+  <millis>1707841867937</millis>
+  <nanos>447600</nanos>
+  <sequence>13003</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2711</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:31:07.937447600Z</date>
+  <millis>1707841867937</millis>
+  <nanos>447600</nanos>
+  <sequence>13004</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2711</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:34:26.440067200Z</date>
+  <millis>1707842066440</millis>
+  <nanos>67200</nanos>
+  <sequence>13186</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2798</thread>
+  <message>Finding test data with id &amp;apos;Data Files/2 Data Search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:34:26.444674900Z</date>
+  <millis>1707842066444</millis>
+  <nanos>674900</nanos>
+  <sequence>13187</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2798</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T16:34:26.444674900Z</date>
+  <millis>1707842066444</millis>
+  <nanos>674900</nanos>
+  <sequence>13188</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2798</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\ACER\git\Final-Project-QA-MOBILE\Data Files\All Data Files.xlsx&amp;apos; and sheet name &amp;apos;search&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>

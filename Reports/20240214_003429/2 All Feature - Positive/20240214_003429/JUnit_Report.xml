@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="2 All Feature - Positive" time="306.892" tests="6" failures="0" errors="0">
+   <testsuite name="2 All Feature - Positive" tests="6" failures="0" errors="0" time="306.892" skipped="0" timestamp="14-02-2024T00:34:35" hostname="ACER - LAPTOP-DI70DTOM" id="Test Suites/2 All Feature - Positive">
+      <properties>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240214_003429\\2 All Feature - Positive\\20240214_003429"/>
+         <property name="logFiles" value="C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240214_003429\\2 All Feature - Positive\\20240214_003429\\appium.log, C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240214_003429\\2 All Feature - Positive\\20240214_003429\\appium_error.log, C:\\Users\\ACER\\git\\Final-Project-QA-MOBILE\\Reports\\20240214_003429\\2 All Feature - Positive\\20240214_003429\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ACER - LAPTOP-DI70DTOM"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="2.5.0"/>
+         <property name="deviceModel" value="Android SDK built for x86"/>
+         <property name="hostAddress" value="192.168.0.111"/>
+         <property name="deviceManufacturer" value="Google"/>
+         <property name="deviceId" value="emulator-5554"/>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="deviceOSVersion" value="8.1.0"/>
+      </properties>
+      <testcase name="Test Cases/1 Positive Test Case/3 Search Item - Data Driven" time="60.771" classname="Test Cases/1 Positive Test Case/3 Search Item - Data Driven" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:34:35 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/3 Search Item - Data Driven: Test Cases/1 Positive Test Case/3 Search Item - Data Driven
+
+14-02-2024T00:34:36 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:34:37 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:34:48 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:34:48 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:34:48 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:34:48 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:34:51 - [MESSAGE][INFO] - Appium server started on port 19,214
+
+14-02-2024T00:35:09 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:35:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:35:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:35:10 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:35:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:35:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), "yudhatesting", 0): Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:35:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:15 - [MESSAGE][PASSED] - Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:35:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), "Dharmayudha1", 0): Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:35:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:17 - [MESSAGE][PASSED] - Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:35:17 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:35:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:35:18 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:35:20 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:35:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText - Search"), search, 0): Text 'speaker' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:35:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:23 - [MESSAGE][PASSED] - Text 'speaker' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:35:23 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:35:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:35:24 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:35:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:27 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:35:27 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:35:32 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:35:32 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:35:33 - [MESSAGE][INFO] - Cannot close application! An unknown server-side error occurred while processing the command. Original error: 'com.Advantage.aShopping' is still running after 500ms timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-DI70DTOM', ip: '192.168.0.111', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {app: E:\BFLP IT Batch 9\9. Bootc..., appPackage: com.Advantage.aShopping, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: E:\BFLP IT Batch 9\9. Bootc..., autoGrantPermissions: true, automationName: uiautomator2, deviceName: emulator-5554 (Android SDK ..., fullReset: true, newCommandTimeout: 1800, noReset: false, platformName: android, platformVersion: 8.1.0, systemPort: 19213, udid: emulator-5554}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 1800, noReset: false, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, systemPort: 19213, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: c3225f8e-752f-4d93-ad03-29c5b3301eab
+
+14-02-2024T00:35:34 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:35:36 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/3 Search Item - Data Driven' .
+
+14-02-2024T00:35:36 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/3 Search Item - Data Driven' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/3 Search Item - Data Driven" time="45.664" classname="Test Cases/1 Positive Test Case/3 Search Item - Data Driven" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:35:36 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/3 Search Item - Data Driven: Test Cases/1 Positive Test Case/3 Search Item - Data Driven
+
+14-02-2024T00:35:36 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:35:36 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:35:42 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:35:42 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:35:42 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:35:42 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:35:46 - [MESSAGE][INFO] - Appium server started on port 19,521
+
+14-02-2024T00:35:55 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:35:55 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:35:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:57 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:35:57 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:35:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:35:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:35:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), "yudhatesting", 0): Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:35:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:02 - [MESSAGE][PASSED] - Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:36:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), "Dharmayudha1", 0): Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:36:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:04 - [MESSAGE][PASSED] - Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:36:04 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:36:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:36:04 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:36:07 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:36:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText - Search"), search, 0): Text 'laptop' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:36:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:10 - [MESSAGE][PASSED] - Text 'laptop' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:36:10 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:36:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:11 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:36:11 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:36:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:36:13 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:36:18 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:36:18 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:36:19 - [MESSAGE][INFO] - Cannot close application! An unknown server-side error occurred while processing the command. Original error: 'com.Advantage.aShopping' is still running after 500ms timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-DI70DTOM', ip: '192.168.0.111', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {app: E:\BFLP IT Batch 9\9. Bootc..., appPackage: com.Advantage.aShopping, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: E:\BFLP IT Batch 9\9. Bootc..., autoGrantPermissions: true, automationName: uiautomator2, deviceName: emulator-5554 (Android SDK ..., fullReset: true, newCommandTimeout: 1800, noReset: false, platformName: android, platformVersion: 8.1.0, systemPort: 19518, udid: emulator-5554}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 1800, noReset: false, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, systemPort: 19518, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 89fd34f1-fb49-45af-9e63-692bdff46737
+
+14-02-2024T00:36:20 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:36:22 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/3 Search Item - Data Driven' .
+
+14-02-2024T00:36:22 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/3 Search Item - Data Driven' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/4 Add to Chart" time="55.562" classname="Test Cases/1 Positive Test Case/4 Add to Chart" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:36:22 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/4 Add to Chart: Test Cases/1 Positive Test Case/4 Add to Chart
+
+14-02-2024T00:36:22 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:36:22 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:36:33 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:36:33 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:36:33 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:36:33 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:36:38 - [MESSAGE][INFO] - Appium server started on port 19,820
+
+14-02-2024T00:36:46 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:36:46 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:36:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView'
+
+14-02-2024T00:36:48 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:36:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:49 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:36:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText"), "yudhatesting", 0): Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:36:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:52 - [MESSAGE][PASSED] - Text 'yudhatesting' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText'
+
+14-02-2024T00:36:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText (1)"), "Dharmayudha1", 0): Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:36:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:54 - [MESSAGE][PASSED] - Text 'Dharmayudha1' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:36:54 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:36:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:36:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:36:55 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:36:58 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:36:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/2 Login dan Checkout/android.widget.EditText - Search"), "speaker", 0): Text 'speaker' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:36:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:01 - [MESSAGE][PASSED] - Text 'speaker' has been set to element 'Object Repository/2 Login dan Checkout/android.widget.EditText - Search'
+
+14-02-2024T00:37:01 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:37:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:02 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:37:02 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:37:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:37:04 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.Button - ADD TO CART"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:37:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:06 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:37:06 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:37:06 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:37:06 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/2 Login dan Checkout/android.widget.ImageView (3)"), 0): Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (3)'
+
+14-02-2024T00:37:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:08 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/2 Login dan Checkout/android.widget.ImageView (3)'
+
+14-02-2024T00:37:08 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:37:13 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:37:13 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:37:15 - [MESSAGE][INFO] - Cannot close application! An unknown server-side error occurred while processing the command. Original error: 'com.Advantage.aShopping' is still running after 500ms timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-DI70DTOM', ip: '192.168.0.111', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {app: E:\BFLP IT Batch 9\9. Bootc..., appPackage: com.Advantage.aShopping, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: E:\BFLP IT Batch 9\9. Bootc..., autoGrantPermissions: true, automationName: uiautomator2, deviceName: emulator-5554 (Android SDK ..., fullReset: true, newCommandTimeout: 1800, noReset: false, platformName: android, platformVersion: 8.1.0, systemPort: 19818, udid: emulator-5554}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 1800, noReset: false, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, systemPort: 19818, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 0a118538-bd5a-4101-9d13-1b9b9ad2a244
+
+14-02-2024T00:37:15 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:37:17 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/4 Add to Chart' .
+
+14-02-2024T00:37:17 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/4 Add to Chart' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/5 Checkout" time="54.818" classname="Test Cases/1 Positive Test Case/5 Checkout" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:37:17 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/5 Checkout: Test Cases/1 Positive Test Case/5 Checkout
+
+14-02-2024T00:37:18 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:37:18 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:37:23 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:37:23 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:37:23 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:37:23 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:37:27 - [MESSAGE][INFO] - Appium server started on port 20,133
+
+14-02-2024T00:37:37 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:37:37 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView'
+
+14-02-2024T00:37:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView'
+
+14-02-2024T00:37:39 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:37:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:37:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText"), "yudhatesting2", 0): Text 'yudhatesting2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText'
+
+14-02-2024T00:37:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:43 - [MESSAGE][PASSED] - Text 'yudhatesting2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText'
+
+14-02-2024T00:37:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText (1)"), "Dharmayudha2", 0): Text 'Dharmayudha2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:37:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:45 - [MESSAGE][PASSED] - Text 'Dharmayudha2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:37:45 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - LOGIN"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:37:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:37:46 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:37:48 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:37:48 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:37:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:49 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:37:49 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:37:49 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:37:49 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.RelativeLayout"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.RelativeLayout'
+
+14-02-2024T00:37:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:53 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.RelativeLayout'
+
+14-02-2024T00:37:53 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - ADD TO CART"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:37:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:54 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:37:54 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:37:54 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:37:54 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:37:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:37:56 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)'
+
+14-02-2024T00:37:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:37:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)'
+
+14-02-2024T00:37:58 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:37:59 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:37:59 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - PAY NOW"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - PAY NOW'
+
+14-02-2024T00:37:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:03 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - PAY NOW'
+
+14-02-2024T00:38:03 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:38:03 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:38:03 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:38:08 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:38:08 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:38:09 - [MESSAGE][INFO] - Cannot close application! An unknown server-side error occurred while processing the command. Original error: 'com.Advantage.aShopping' is still running after 500ms timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-DI70DTOM', ip: '192.168.0.111', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {app: E:\BFLP IT Batch 9\9. Bootc..., appPackage: com.Advantage.aShopping, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: E:\BFLP IT Batch 9\9. Bootc..., autoGrantPermissions: true, automationName: uiautomator2, deviceName: emulator-5554 (Android SDK ..., fullReset: true, newCommandTimeout: 1800, noReset: false, platformName: android, platformVersion: 8.1.0, systemPort: 20131, udid: emulator-5554}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 1800, noReset: false, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, systemPort: 20131, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 6b366e3b-d3dc-407d-8fd0-88a478120dcb
+
+14-02-2024T00:38:10 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:38:12 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/5 Checkout' .
+
+14-02-2024T00:38:12 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/5 Checkout' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/6 Filter" time="38.829" classname="Test Cases/1 Positive Test Case/6 Filter" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:38:12 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/6 Filter: Test Cases/1 Positive Test Case/6 Filter
+
+14-02-2024T00:38:12 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:38:13 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:38:24 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:38:24 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:38:24 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:38:24 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:38:26 - [MESSAGE][INFO] - Appium server started on port 20,474
+
+14-02-2024T00:38:34 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:38:34 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:38:35 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:38:35 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/3 Filter/android.widget.ImageView"), 0): Tapped on element 'Object Repository/3 Filter/android.widget.ImageView'
+
+14-02-2024T00:38:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:36 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/3 Filter/android.widget.ImageView'
+
+14-02-2024T00:38:36 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:38:37 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:38:37 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/3 Filter/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/3 Filter/android.widget.LinearLayout'
+
+14-02-2024T00:38:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:37 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/3 Filter/android.widget.LinearLayout'
+
+14-02-2024T00:38:37 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - BY OPERATING SYSTEM"), 0): Tapped on element 'Object Repository/3 Filter/android.widget.TextView - BY OPERATING SYSTEM'
+
+14-02-2024T00:38:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/3 Filter/android.widget.TextView - BY OPERATING SYSTEM'
+
+14-02-2024T00:38:41 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - Windows 10"), 0): Tapped on element 'Object Repository/3 Filter/android.widget.TextView - Windows 10'
+
+14-02-2024T00:38:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/3 Filter/android.widget.TextView - Windows 10'
+
+14-02-2024T00:38:42 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - APPLY"), 0): Tapped on element 'Object Repository/3 Filter/android.widget.TextView - APPLY'
+
+14-02-2024T00:38:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:38:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/3 Filter/android.widget.TextView - APPLY'
+
+14-02-2024T00:38:42 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:38:47 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:38:47 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:38:49 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:38:51 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/6 Filter' .
+
+14-02-2024T00:38:51 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/6 Filter' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1 Positive Test Case/7 Edit Data Checkout" time="50.986" classname="Test Cases/1 Positive Test Case/7 Edit Data Checkout" status="PASSED">
+         <system-out><![CDATA[14-02-2024T00:38:51 - [TEST_CASE][PASSED] - Test Cases/1 Positive Test Case/7 Edit Data Checkout: Test Cases/1 Positive Test Case/7 Edit Data Checkout
+
+14-02-2024T00:38:51 - [TEST_STEP][PASSED] - startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true): Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:38:51 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+14-02-2024T00:38:57 - [MESSAGE][INFO] - PATH: C:\Program Files\nodejs;
+
+14-02-2024T00:38:57 - [MESSAGE][INFO] - APPIUM_HOME: C:\Users\ACER\.appium
+
+14-02-2024T00:38:57 - [MESSAGE][INFO] - appium outlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium.log
+
+14-02-2024T00:38:57 - [MESSAGE][INFO] - appium errlog: C:\Users\ACER\git\Final-Project-QA-MOBILE\Reports\20240214_003429\2 All Feature - Positive\20240214_003429\appium_error.log
+
+14-02-2024T00:39:00 - [MESSAGE][INFO] - Appium server started on port 20,716
+
+14-02-2024T00:39:08 - [MESSAGE][PASSED] - Started app at: 'E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk'
+
+14-02-2024T00:39:08 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView'
+
+14-02-2024T00:39:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView'
+
+14-02-2024T00:39:10 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.LinearLayout"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:39:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.LinearLayout'
+
+14-02-2024T00:39:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText"), "yudhatesting2", 0): Text 'yudhatesting2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText'
+
+14-02-2024T00:39:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:15 - [MESSAGE][PASSED] - Text 'yudhatesting2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText'
+
+14-02-2024T00:39:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/4 New Checkout/android.widget.EditText (1)"), "Dharmayudha2", 0): Text 'Dharmayudha2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:39:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:17 - [MESSAGE][PASSED] - Text 'Dharmayudha2' has been set to element 'Object Repository/4 New Checkout/android.widget.EditText (1)'
+
+14-02-2024T00:39:17 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - LOGIN"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:39:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - LOGIN'
+
+14-02-2024T00:39:17 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:39:19 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:39:19 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:39:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:20 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (1)'
+
+14-02-2024T00:39:20 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:39:20 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:39:20 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.RelativeLayout"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.RelativeLayout'
+
+14-02-2024T00:39:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:25 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.RelativeLayout'
+
+14-02-2024T00:39:25 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - ADD TO CART"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:26 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - ADD TO CART'
+
+14-02-2024T00:39:26 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:39:26 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:39:26 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:39:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:28 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.ImageView (2)'
+
+14-02-2024T00:39:28 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)'
+
+14-02-2024T00:39:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:29 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - CHECKOUT (PAY 299.99)'
+
+14-02-2024T00:39:29 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:39:30 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:39:30 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/4 New Checkout/android.widget.Button - PAY NOW"), 0): Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - PAY NOW'
+
+14-02-2024T00:39:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-02-2024T00:39:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/4 New Checkout/android.widget.Button - PAY NOW'
+
+14-02-2024T00:39:33 - [TEST_STEP][PASSED] - hideKeyboard(): Keyboard is hidden
+
+14-02-2024T00:39:33 - [MESSAGE][PASSED] - Keyboard is hidden
+
+14-02-2024T00:39:33 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+14-02-2024T00:39:38 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+14-02-2024T00:39:38 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+14-02-2024T00:39:39 - [MESSAGE][INFO] - Cannot close application! An unknown server-side error occurred while processing the command. Original error: 'com.Advantage.aShopping' is still running after 500ms timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-DI70DTOM', ip: '192.168.0.111', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {app: E:\BFLP IT Batch 9\9. Bootc..., appPackage: com.Advantage.aShopping, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: E:\BFLP IT Batch 9\9. Bootc..., autoGrantPermissions: true, automationName: uiautomator2, deviceName: emulator-5554 (Android SDK ..., fullReset: true, newCommandTimeout: 1800, noReset: false, platformName: android, platformVersion: 8.1.0, systemPort: 20715, udid: emulator-5554}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, fullReset: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 1800, noReset: false, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, systemPort: 20715, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 0ddb1439-f2c0-4627-b144-e51fa87a6bed
+
+14-02-2024T00:39:40 - [MESSAGE][PASSED] - Close app successfully
+
+14-02-2024T00:39:42 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1 Positive Test Case/7 Edit Data Checkout' .
+
+14-02-2024T00:39:42 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1 Positive Test Case/7 Edit Data Checkout' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-02-2024T00:34:35 - [TEST_SUITE][PASSED] - 2 All Feature - Positive: Test Cases/1 Positive Test Case/7 Edit Data Checkout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

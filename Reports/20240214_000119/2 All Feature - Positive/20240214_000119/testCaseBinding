@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/1 Positive Test Case/3 Search Item - Data Driven","testCaseId":"Test Cases/1 Positive Test Case/3 Search Item - Data Driven","iterationVariableName":"","bindedValues":{"search":"\u0027speaker\u0027"}}
+{"testCaseName":"Test Cases/1 Positive Test Case/3 Search Item - Data Driven","testCaseId":"Test Cases/1 Positive Test Case/3 Search Item - Data Driven","iterationVariableName":"","bindedValues":{"search":"\u0027laptop\u0027"}}
+{"testCaseName":"Test Cases/1 Positive Test Case/4 Add to Chart","testCaseId":"Test Cases/1 Positive Test Case/4 Add to Chart","iterationVariableName":""}
+{"testCaseName":"Test Cases/1 Positive Test Case/5 Checkout","testCaseId":"Test Cases/1 Positive Test Case/5 Checkout","iterationVariableName":""}
+{"testCaseName":"Test Cases/1 Positive Test Case/6 Filter","testCaseId":"Test Cases/1 Positive Test Case/6 Filter","iterationVariableName":""}
+{"testCaseName":"Test Cases/1 Positive Test Case/7 Edit Data Checkout","testCaseId":"Test Cases/1 Positive Test Case/7 Edit Data Checkout","iterationVariableName":""}

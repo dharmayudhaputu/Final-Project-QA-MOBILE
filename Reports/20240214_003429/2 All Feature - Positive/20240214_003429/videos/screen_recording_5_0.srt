@@ -1,0 +1,40 @@
+1
+00:00:00,059 --> 00:00:21,998
+1. startApplication("E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk", true)
+
+2
+00:00:21,999 --> 00:00:22,411
+5. hideKeyboard()
+
+3
+00:00:22,413 --> 00:00:24,211
+9. tap(findTestObject("Object Repository/3 Filter/android.widget.ImageView"), 0)
+
+4
+00:00:24,212 --> 00:00:24,597
+13. hideKeyboard()
+
+5
+00:00:24,598 --> 00:00:25,058
+17. tap(findTestObject("Object Repository/3 Filter/android.widget.LinearLayout"), 0)
+
+6
+00:00:25,060 --> 00:00:28,734
+21. tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - BY OPERATING SYSTEM"), 0)
+
+7
+00:00:28,735 --> 00:00:29,742
+25. tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - Windows 10"), 0)
+
+8
+00:00:29,743 --> 00:00:30,076
+29. tap(findTestObject("Object Repository/3 Filter/android.widget.TextView - APPLY"), 0)
+
+9
+00:00:30,076 --> 00:00:35,091
+33. delay(5)
+
+10
+00:00:35,091 --> 00:00:36,732
+37. closeApplication()
+
