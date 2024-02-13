@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Test Suite Login dan Register,,,,13-02-2024 23:18:52,13-02-2024 23:21:11,2m - 19.244s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/1 Register Account,,,,13-02-2024 23:18:52,13-02-2024 23:19:58,1m - 5.557s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:18:53,13-02-2024 23:19:16,23.081s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.ImageView""), 0)",,,,13-02-2024 23:19:16,13-02-2024 23:19:18,2.119s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.TextView - LOGIN""), 0)",,,,13-02-2024 23:19:18,13-02-2024 23:19:19,1.268s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.TextView - SIGN UP TODAY""), 0)",,,,13-02-2024 23:19:19,13-02-2024 23:19:21,1.469s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText""), ""dharmayudhaputu"", 0)",,,,13-02-2024 23:19:21,13-02-2024 23:19:24,3.237s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (1)""), ""yudhatesting@gmail.com"", 0)",,,,13-02-2024 23:19:24,13-02-2024 23:19:26,2.139s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (2)""), ""Dharmayudha1"", 0)",,,,13-02-2024 23:19:26,13-02-2024 23:19:28,2.093s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (3)""), ""Dharmayudha1"", 0)",,,,13-02-2024 23:19:28,13-02-2024 23:19:30,1.962s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:30,13-02-2024 23:19:31,0.624s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (4)""), ""Dharma"", 0)",,,,13-02-2024 23:19:31,13-02-2024 23:19:33,2.345s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (5)""), ""Yudha"", 0)",,,,13-02-2024 23:19:33,13-02-2024 23:19:35,1.973s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:35,13-02-2024 23:19:35,0.553s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (6)""), ""081353081122"", 0)",,,,13-02-2024 23:19:35,13-02-2024 23:19:38,2.371s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:38,13-02-2024 23:19:38,0.565s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (7)""), ""Jakarta"", 0)",,,,13-02-2024 23:19:38,13-02-2024 23:19:41,2.462s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:41,13-02-2024 23:19:42,0.762s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (8)""), ""Jalan Medan Merdeka No 5 Jakarta"", 0)",,,,13-02-2024 23:19:42,13-02-2024 23:19:44,2.402s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:44,13-02-2024 23:19:45,0.580s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (9)""), ""Jakarta"", 0)",,,,13-02-2024 23:19:45,13-02-2024 23:19:50,5.651s,PASSED
+"setText(findTestObject(""Object Repository/1 Register/android.widget.EditText (10)""), ""80582"", 0)",,,,13-02-2024 23:19:50,13-02-2024 23:19:52,1.930s,PASSED
+hideKeyboard(),,,,13-02-2024 23:19:52,13-02-2024 23:19:53,0.573s,PASSED
+"scrollToText(""register"")",,,,13-02-2024 23:19:53,13-02-2024 23:19:56,3.068s,PASSED
+"tap(findTestObject(""Object Repository/1 Register/android.widget.Button - REGISTER""), 0)",,,,13-02-2024 23:19:56,13-02-2024 23:19:56,0.285s,PASSED
+closeApplication(),,,,13-02-2024 23:19:56,13-02-2024 23:19:58,1.718s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login - IF ELSE dan Data Driven,,,,13-02-2024 23:19:58,13-02-2024 23:20:37,39.371s,PASSED
+validUsername = username,,,,13-02-2024 23:19:58,13-02-2024 23:19:58,0.006s,PASSED
+username = username,,,,13-02-2024 23:19:58,13-02-2024 23:19:58,0.004s,PASSED
+password = password,,,,13-02-2024 23:19:58,13-02-2024 23:19:58,0.003s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:19:58,13-02-2024 23:20:20,21.365s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 23:20:20,13-02-2024 23:20:22,2.288s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 23:20:22,13-02-2024 23:20:23,1.084s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 23:20:23,13-02-2024 23:20:26,2.907s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 23:20:26,13-02-2024 23:20:28,1.982s,PASSED
+if (username == validUsername),,,,13-02-2024 23:20:28,13-02-2024 23:20:37,9.479s,PASSED
+,,,,,,,
+Test Cases/1 Positive Test Case/2 Login - IF ELSE dan Data Driven,,,,13-02-2024 23:20:37,13-02-2024 23:21:11,33.984s,PASSED
+validUsername = username,,,,13-02-2024 23:20:37,13-02-2024 23:20:37,0.002s,PASSED
+username = username,,,,13-02-2024 23:20:37,13-02-2024 23:20:37,0.001s,PASSED
+password = password,,,,13-02-2024 23:20:37,13-02-2024 23:20:37,0.002s,PASSED
+"startApplication(""E:\BFLP IT Batch 9\9. Bootcamp\3. Final Project Mobile\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:20:37,13-02-2024 23:20:54,16.735s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.ImageView""), 0)",,,,13-02-2024 23:20:54,13-02-2024 23:20:56,2.185s,PASSED
+"tap(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.LinearLayout""), 0)",,,,13-02-2024 23:20:56,13-02-2024 23:20:57,1.134s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText""), username, 0)",,,,13-02-2024 23:20:57,13-02-2024 23:21:00,2.827s,PASSED
+"setText(findTestObject(""Object Repository/2 Login dan Checkout/android.widget.EditText (1)""), password, 0)",,,,13-02-2024 23:21:00,13-02-2024 23:21:02,2.138s,PASSED
+if (username == validUsername),,,,13-02-2024 23:21:02,13-02-2024 23:21:11,8.928s,PASSED
